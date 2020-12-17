@@ -1,0 +1,58 @@
+<svg fill="none" viewBox="0 0 600 360" width="600" height="360" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        div#maincontent {
+            background: #222;
+            border-radius: 8px;
+            padding: 8px;
+            margin: 0px;
+            font-family: monospace;
+            color: white;
+            font-size: 1.2em;
+            text-align: center;
+
+        }
+        h1 {
+            margin: 0px;
+            padding: 0px;
+            font-size: 1.4em;
+        }
+        p {
+            margin: 0px;
+            padding: 0px;
+        }
+        div#links {
+            display: flex;
+            flex-direction: column;
+            flex-wrap: wrap;
+        }
+        div#links .list {
+            margin-right: 8px;
+            color: #FF8;
+        }
+        div#links .list:hover, div#links .list:active, div#links .list:focus  {
+            margin-right: 8px;
+            color: black;
+            background: #FF8;
+        }
+
+        .pronom {
+            color: grey;
+        }
+      </style>
+      <div id="maincontent">
+        <h1>oräkle - Ethan G.</h1>
+        <p>Je suis un<span class="pronom">.e</span> jeune développeur<span class="pronom">.se</span> passionné<span class="pronom">.e</span> d'informatique. Je développe principalement en Python.</p>
+        <div id="links">
+            <span class="list">>>Twitter: <strong>@mudakle</strong></span>
+            <span class="list">>>GitLab: <strong>@orakless</strong></span>
+            <span class="list">>>privatebin: <strong>paste.orakle.eu</strong></span>
+            <span class="list">>>liens intéressants: <strong>bookmarks.orakle.eu</strong></span>
+            <span class="list">>>Mon site: <strong>orakle.eu</strong></span>
+            <span class="list">>>Mes pronoms: <strong>iel<span class="pronom">/</span>elle</strong></span>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
