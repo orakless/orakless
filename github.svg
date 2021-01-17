@@ -42,15 +42,15 @@
         }
       </style>
       <div id="maincontent">
-        <h1>oräkle - Ethan G.</h1>
-        <p>Je suis un<span class="pronom">.e</span> jeune développeur<span class="pronom">.se</span> passionné<span class="pronom">.e</span> d'informatique. Je développe principalement en Python.</p>
+        <h1>oräkle - Eva G.</h1>
+        <p>Je suis une jeune développeuse passionnée d'informatique. Je développe principalement en Python. Je speedrun aussi occasionellement le jeu-vidéo Super Meat Boy.</p>
         <div id="links">
             <span class="list">>>Twitter: <strong>@mudakle</strong></span>
             <span class="list">>>GitLab: <strong>@orakless</strong></span>
             <span class="list">>>privatebin: <strong>paste.orakle.eu</strong></span>
             <span class="list">>>liens intéressants: <strong>bookmarks.orakle.eu</strong></span>
             <span class="list">>>Mon site: <strong>orakle.eu</strong></span>
-            <span class="list">>>Mes pronoms: <strong>iel<span class="pronom">/</span>elle</strong></span>
+            <span class="list">>>Mes pronoms: <strong>elle</strong></span>
         </div>
       </div>
     </div>
